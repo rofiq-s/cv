@@ -1,0 +1,40 @@
+body {
+  background-color: #364F6B;
+  color: #F5F5F5;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #3FC1C9;
+}
+
+h3 {
+  color: #FC5185;
+}
+
+img {
+  height: 200px;
+}
+
+a:link {
+  color: #3FC1C9;
+}
+
+a:visited {
+  color: #F5F5F5;
+}
+
+a:hover {
+ color: #FC5185;
+}
+
+a:active {
+  color : white;
+}
